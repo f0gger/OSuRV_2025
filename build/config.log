@@ -1,0 +1,10 @@
+# project OSuRV_2024 configured on Tue Aug  5 05:22:28 2025 by
+# waf 2.0.20 (abi 20, python 30b02f0 on linux)
+# using ./waf configure
+#
+----------------------------------------
+Setting top to
+/home/net/OSuRV_2024
+----------------------------------------
+Setting out to
+/home/net/OSuRV_2024/build
